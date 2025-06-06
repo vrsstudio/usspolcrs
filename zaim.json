@@ -16,7 +16,7 @@
     "price_info": "20 000 ",
 	"percent_info": "от 0,01% в день",
 	"days_info": "до 160 дней",
-    "url": "https://www.cbr.ru/finorg/",
+    "url": "https://www.cbr.ru/PSystem/sfp/",
   	"text": "<p><strong>Robotmoney</strong> <br/>Процентная ставка от 1% в день. Возраст заемщика: 18-70. После одобрения займа сообщим, доступно ли снижение процентной ставки</p>"
   },
     
@@ -37,7 +37,7 @@
     "price_info": "20 000",
 	"percent_info": "от 0,01% в день",
 	"days_info": "до 160 дней",
-    "url": "https://www.cbr.ru/finorg/",
+    "url": "https://www.cbr.ru/PSystem/sfp/",
   	"text": "<p><strong>Первый займ 0%</strong> <br/> Сумма займа до 80 000 руб!</p>"
   },
   {
@@ -57,7 +57,7 @@
     "price_info": "до 6 700  легкая процедура подачи заявки",
 	"percent_info": "от 1,3% в день",
 	"days_info": "до 190 дней",
-    "url": "https://www.cbr.ru/finorg/",
+    "url": "https://www.cbr.ru/PSystem/sfp/",
   	"text": "<p><strong>Lime-zaim</strong> <br/>Ставка от 0% на первый заем и от 0.34% на повторные займы. Сумма от 2 000 до 70 000</p>"
   },
   {
@@ -77,7 +77,7 @@
     "price_info": "15 000 за 10 минут и круглосуточно",
 	"percent_info": "от 0,01% в день",
 	"days_info": "до 160 дней",
-    "url": "https://www.cbr.ru/finorg/",
+    "url": "https://www.cbr.ru/PSystem/sfp/",
   	"text": "<p><strong> Первый займ 0%</strong> <br/> </p>"
   },
   {
@@ -97,7 +97,7 @@
     "price_info": "20 000  быстрое решение до 20 минут",
 	"percent_info": "от 0,1% в день",
 	"days_info": "до 160 дней",
-    "url": "https://www.cbr.ru/finorg/",
+    "url": "https://www.cbr.ru/PSystem/sfp/",
   	"text": "<p><strong>Joymoney</strong> <br/> Для первого займа клиенту доступна сумма до 8 000 руб, при повторном займе возможно увеличение лимита до 30 000 руб. Первый займ под 0%!</p>"
   },
   {
@@ -117,7 +117,7 @@
     "price_info": "20 000",
 	"percent_info": "от 0,01% в день",
 	"days_info": "до 160 дней",
-    "url": "https://www.cbr.ru/finorg/",
+    "url": "https://www.cbr.ru/PSystem/sfp/",
   	"text": "<p><strong>Первый займ 0%</strong> <br/> Возраст заемщика: 18-70 Сумма займа до 30 000 руб!</p>"
   },
   {
@@ -137,7 +137,7 @@
     "price_info": "18 000  96% — наивысшая вероятность одобрения",
 	"percent_info": "от 0% в день",
 	"days_info": "до 160 дней",
-    "url": "https://www.cbr.ru/finorg/",
+    "url": "https://www.cbr.ru/PSystem/sfp/",
   	"text": "<p><strong>Первый займ 0%</strong> <br/> Сумма займа до 100 000 руб!</p>"
   } 
 ]
