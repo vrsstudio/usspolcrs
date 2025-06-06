@@ -16,7 +16,7 @@
     "price_info": "12 000",
 	"percent_info": "от 0,01% в день",
 	"days_info": "до 260 дней",
-    "url": "https://www.cbr.ru/finorg/",
+    "url": "https://www.cbr.ru/PSystem/sfp/",
   	"text": "<p><strong>MoneyMan</strong> <br/> Возраст заемщика: 18-70 Сумма займа до 80 000 руб Первый займ под 0%!</p>"
   }
   ,
@@ -37,7 +37,7 @@
     "price_info": "50 000 ",
 	"percent_info": "от 0,01% в день",
 	"days_info": "до 160 дней",
-    "url": "https://www.cbr.ru/finorg/",
+    "url": "https://www.cbr.ru/PSystem/sfp/",
   	"text": "<p><strong>МигКредит</strong> <br/>Процентная ставка от 0% в день Возраст заемщика: 18-70 Сумма займа до 15 000 руб Первый займ под 0%!</p>"
   }
  ,
@@ -58,7 +58,7 @@
     "price_info": "до 18 000  0% на первый заем",
 	"percent_info": "от 0,01% в день",
 	"days_info": "до 160 дней",
-    "url": "https://www.cbr.ru/finorg/",
+    "url": "https://www.cbr.ru/PSystem/sfp/",
   	"text": "<p><strong>Lime-zaim</strong> <br/>Ставка от 0% на первый заем и от 0.34% на повторные займы. Сумма от 2 000 до 70 000</p>"
   },
   {
@@ -78,7 +78,7 @@
     "price_info": "15 000 ",
 	"percent_info": "от 0,01% в день",
 	"days_info": "до 160 дней",
-    "url": "https://www.cbr.ru/finorg/",
+    "url": "https://www.cbr.ru/PSystem/sfp/",
   	"text": "<p><strong>Ё-заем</strong> <br/>Сумма займа до 30 000 руб Первый займ под 0%!</p>"
   }, 
   
@@ -100,7 +100,7 @@
     "price_info": "10 000 ",
 	"percent_info": "от 0,01% в день",
 	"days_info": "до 160 дней",
-    "url": "https://www.cbr.ru/finorg/",
+    "url": "https://www.cbr.ru/PSystem/sfp/",
   	"text": "<p><strong>Joymoney</strong> <br/> Для первого займа клиенту доступна сумма до 8 000 руб, при повторном займе возможно увеличение лимита до 30 000 руб. Первый займ под 0%!</p>"
   }
    
