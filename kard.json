@@ -1,12 +1,12 @@
 [
     {
-	"name": "black card",
-	"price_info": "От 3% До 100 000 грн",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/migcredit.png",
-    "sum": "500 - 100 000",
+	"name": "Карта Alfa Only",
+	"price_info": "От 3% До 300 000 грн",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/alfaonly.png",
+    "sum": "500 - 400 000",
 	"term": "62 - 120",
 	"percent": "0,01% - 3,1%",
-    "url": "https://www.cbr.ru/PSystem/sfp/",
+    "url": "https://appstopcredits.online/%d0%ba%d0%b0%d1%80%d1%82%d0%b0-alfa-only/",
     "text": "<p>100 дней без % по кредиту на покупки и снятие наличных.</p><p>Кредитный лимит до 500 000 руб.</p>"
   },
   {
