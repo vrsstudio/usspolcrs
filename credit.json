@@ -21,9 +21,9 @@
   }
   ,
   {
-	"name": "MisterCash",
+	"name": "Creditkasa",
 	"age": "18-65",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/mistercash.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/creditkasa.png",
     "rating": 4.9,
 	"sum_to": "15 000 ",
 	"term_from": "1",
@@ -37,7 +37,7 @@
     "price_info": "50 000 ",
 	"percent_info": "от 0,01% в день",
 	"days_info": "до 160 дней",
-    "url": "https://www.cbr.ru/PSystem/sfp/",
+    "url": "https://appstopcredits.online/creditkasa/",
   	"text": "<p><strong>МигКредит</strong> <br/>Процентная ставка от 0% в день Возраст заемщика: 18-70 Сумма займа до 15 000 руб Первый займ под 0%!</p>"
   }
  ,
