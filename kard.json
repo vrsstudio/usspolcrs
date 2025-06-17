@@ -21,13 +21,13 @@
   },
   
   {
-	"name": "gold card",
+	"name": "Дебетовая карта ВТБ",
 	"price_info": "От 5% До 200 000 руб",
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/avanscredit.png",
-    "sum": "500 - 100 000",
+    "sum": "1 500 - 350 000",
 	"term": "1 - 55",
-	"percent": "0,01% - 3,5%",
-    "url": "https://www.cbr.ru/PSystem/sfp/",
+	"percent": "0,01% - 1,5%",
+    "url": "https://appstopcredits.online/%d0%b4%d0%b5%d0%b1%d0%b5%d1%82%d0%be%d0%b2%d0%b0%d1%8f-%d0%ba%d0%b0%d1%80%d1%82%d0%b0-%d0%b2%d1%82%d0%b1/",
     "text": "<p>Новый повышенный кэшбэк 5% на бытовую технику, электронику, одежду и обувь</p><p>Кредитный лимит до 300 000 руб.</p>"
   }
   
