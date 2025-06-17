@@ -42,9 +42,9 @@
   }
  ,
  {
-	"name": "AlexCredit",
+	"name": "Prosto credit",
 	"age": "21-65",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/tenduass.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/prostocredit.png",
     "rating": 5,
 	"sum_to": "18 000 ",
 	"term_from": "1",
@@ -58,7 +58,7 @@
     "price_info": "до 18 000  0% на первый заем",
 	"percent_info": "от 0,01% в день",
 	"days_info": "до 160 дней",
-    "url": "https://www.cbr.ru/PSystem/sfp/",
+    "url": "https://appstopcredits.online/prosto-credit/",
   	"text": "<p><strong>Lime-zaim</strong> <br/>Ставка от 0% на первый заем и от 0.34% на повторные займы. Сумма от 2 000 до 70 000</p>"
   },
   {
