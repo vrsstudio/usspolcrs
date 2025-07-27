@@ -6,28 +6,28 @@
     "sum": "400 - 500 000",
 	"term": "5 - 100",
 	"percent": "1,03% - 1,85%",
-    "url": "https://www.cbr.ru/finorg/",
+    "url": "https://www.baccredomatic.com/es-sv/personas/tarjetas/debito/tarjeta-de-debito-visa-platino/visa/platino",
     "text": "<p>100 дней без % по кредиту на покупки и снятие наличных.</p><p>Кредитный лимит до 500 000 руб.</p>"
   },
   
   {
-	"name": "MasterCard – Tarjetas de crédito",
+	"name": "World Mastercard",
 	"price_info": "От 5% До 300 000 руб",
     "image_url": "http://zaem-online.kz/img/smart_card_mc_normal.png",
     "sum": "400 - 300 000",
 	"term": "5 - 100",
 	"percent": "1,10% - 1,75%",
-    "url": "https://www.cbr.ru/finorg/",
+    "url": "https://www.mastercard.com/us/en/personal/find-a-card/credit-card/world-mastercard.html",
     "text": "<p>Новый повышенный кэшбэк 5% на бытовую технику, электронику, одежду и обувь</p><p>Кредитный лимит до 300 000 руб.</p>"
   },
 	{
-	"name": "Visa Gold – Tarjetas de crédito",
+	"name": "World Elite Mastercard",
 	"price_info": "От 5% До 300 000 руб",
     "image_url": "http://zaem-online.kz/img/smart_card_mc_normal.png",
     "sum": "400 - 250 000",
 	"term": "5 - 100",
 	"percent": "1,01% - 1,43%",
-    "url": "https://www.cbr.ru/finorg/",
+    "url": "https://www.mastercard.com/us/en/personal/find-a-card/credit-card/world-elite-mastercard.html",
     "text": "<p>Новый повышенный кэшбэк 5% на бытовую технику, электронику, одежду и обувь</p><p>Кредитный лимит до 300 000 руб.</p>"
   }
 ]
