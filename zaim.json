@@ -1,13 +1,13 @@
 [
     {
-	"name": "Starfin",
-	"age": "18-70",
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/starfin.png",
+	"name": "Clicredito MX",
+	"age": "18-65",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/jantwo/refs/heads/main/cliccredito.png",
     "rating": 4.9,
-	"sum_to": "50 000 руб",
+	"sum_to": "8 000 руб",
 	"term_from": "1",
 	"term_to": "160",
-	"percent": "1%",
+	"percent": "1.8%",
 	"visa": true,
 	"mastercard": true,
 	"mir": false,
