@@ -32,12 +32,12 @@
 
  {
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/prostocredit.png",
-      "name": "Milian",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/turbopesso.png",
+      "name": "TurboPeso MX",
      "rating": 5,
      "age": "18-65",
     "percent": "1%",
-	"sum_one": "hasta 45 000",
+	"sum_one": "hasta 30 000",
 		"sum_min": "hasta 1 000 руб",
  "days_info": "hasta 160 días",
  
@@ -62,12 +62,12 @@
 
  {
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/miloan.png",
-      "name": "Soscredit",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/ultradinero.png",
+      "name": "UltraDinero MX",
      "rating": 5,
-     "age": "18-65",
+     "age": "18-70",
     "percent": "1%",
-	"sum_one": "hasta 55 000",
+	"sum_one": "hasta 20 000",
 		"sum_min": "hasta 1 000 руб",
  "days_info": "hasta 190 días",
  
