@@ -1,33 +1,25 @@
 [
-    
-    
- 
+
  {
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/66c872f8dd5a0e3f8452296287637d6d573aa2f4/starfin.png",
-      "name": "Evros",
-     "rating": 5,
-     "age": "18-65",
-    "percent": "1%",
-	"sum_one": "hasta 50 000",
-		"sum_min": "hasta 1 000 руб",
- "days_info": "hasta 190 días",
- 
+	"name": "Clicredito MX",
+	"age": "18-65",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/jantwo/refs/heads/main/cliccredito.png",
+    "rating": 4.9,
+	"sum_to": "8 000 руб",
+	"term_from": "1",
 	"term_to": "160",
-   
-     "url": "https://appstopcredits.online/starfin/",
-       "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Funciona las 24 horas del día",
-        "license": "Certificado Nº 2/11/08/27/000326",
-   "scorost": "несколько минут",
-   "dokuments": "Pasaporte",
-   "sposob": "онлайн",
-    "nalichnie": true,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-  } 
+	"percent": "1.8%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": false,
+	"yandex": false,
+    "price_info": "20 000 ",
+	"percent_info": "от 0,01% в день",
+	"days_info": "до 160 дней",
+    "url": "https://appstopcredits.online/starfin/",
+  	"text": "<p><strong>Robotmoney</strong> <br/>Процентная ставка от 1% в день. Возраст заемщика: 18-70. После одобрения займа сообщим, доступно ли снижение процентной ставки</p>"
+  }
 ,
 
  {
