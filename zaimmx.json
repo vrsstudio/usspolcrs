@@ -95,7 +95,7 @@
       "name": "Loaney MX",
      "rating": 5,
      "age": "18-65",
-    "percent": "1%",
+    "percent": "0.5%",
 	"sum_one": "hasta 94 307",
 		"sum_min": "hasta 1 000 руб",
  "days_info": "hasta 190 días",
@@ -287,4 +287,5 @@
   }
       
 ]
+
 
