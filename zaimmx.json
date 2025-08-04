@@ -6,7 +6,7 @@
       "name": "Coppel MX",
      "rating": 5,
      "age": "18-65",
-    "percent": "1.2%",
+    "percent": "0.8%",
 	"sum_one": "hasta 35 000",
 		"sum_min": "hasta 1 000 руб",
  "days_info": "hasta 160 días",
@@ -36,7 +36,7 @@
       "name": "Alvos MX",
      "rating": 5,
      "age": "18-70",
-    "percent": "1%",
+    "percent": "0.5%",
 	"sum_one": "hasta 8 000",
 		"sum_min": "hasta 1 000 руб",
  "days_info": "hasta 160 días",
@@ -287,6 +287,7 @@
   }
       
 ]
+
 
 
 
