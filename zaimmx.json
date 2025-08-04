@@ -2,18 +2,48 @@
 
   {
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/cliccredito.png",
-      "name": "Clicredito MX",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/coppelmx.png",
+      "name": "Coppel MX",
      "rating": 5,
      "age": "18-65",
-    "percent": "1.8%",
+    "percent": "1.2%",
+	"sum_one": "hasta 35 000",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 160 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1rbi688609ef3a2be",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  }  
+,
+
+ {
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/alvos.png",
+      "name": "Alvos MX",
+     "rating": 5,
+     "age": "18-70",
+    "percent": "1%",
 	"sum_one": "hasta 8 000",
 		"sum_min": "hasta 1 000 руб",
  "days_info": "hasta 160 días",
  
 	"term_to": "160",
    
-     "url": "https://appstopcredits.online/clicredito-mx/",
+     "url": "https://tds.pdl-profit.com/h/1rco688609a3175c0",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Funciona las 24 horas del día",
@@ -32,40 +62,10 @@
 
  {
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/turbopesso.png",
-      "name": "TurboPeso MX",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
+      "name": "Finmercado MX CPL",
      "rating": 5,
-     "age": "18-70",
-    "percent": "1%",
-	"sum_one": "hasta 30 000",
-		"sum_min": "hasta 1 000 руб",
- "days_info": "hasta 160 días",
- 
-	"term_to": "160",
-   
-     "url": "https://appstopcredits.online/turbopeso-mx/",
-       "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Funciona las 24 horas del día",
-        "license": "Certificado Nº 2/11/08/27/000326",
-   "scorost": "несколько минут",
-   "dokuments": "Pasaporte",
-   "sposob": "онлайн",
-    "nalichnie": true,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-
-
-  }  
-,
-
- {
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/ultradinero.png",
-      "name": "UltraDinero MX",
-     "rating": 5,
-     "age": "18-70",
+     "age": "22-55",
     "percent": "1%",
 	"sum_one": "hasta 20 000",
 		"sum_min": "hasta 1 000 руб",
@@ -73,7 +73,204 @@
  
 	"term_to": "160",
    
-     "url": "https://appstopcredits.online/ultradinero-mx/",
+     "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  }
+	,
+	{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/loaneymx.png",
+      "name": "Loaney MX",
+     "rating": 5,
+     "age": "18-65",
+    "percent": "1%",
+	"sum_one": "hasta 94 307",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 190 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1rek68860968c840c",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  }
+	,{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
+      "name": "Finmercado MX CPL",
+     "rating": 5,
+     "age": "22-55",
+    "percent": "1%",
+	"sum_one": "hasta 20 000",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 190 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  },
+	{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
+      "name": "Finmercado MX CPL",
+     "rating": 5,
+     "age": "22-55",
+    "percent": "1%",
+	"sum_one": "hasta 20 000",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 190 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  },
+	{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
+      "name": "Finmercado MX CPL",
+     "rating": 5,
+     "age": "22-55",
+    "percent": "1%",
+	"sum_one": "hasta 20 000",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 190 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  },
+	{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
+      "name": "Finmercado MX CPL",
+     "rating": 5,
+     "age": "22-55",
+    "percent": "1%",
+	"sum_one": "hasta 20 000",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 190 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  },
+	{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
+      "name": "Finmercado MX CPL",
+     "rating": 5,
+     "age": "22-55",
+    "percent": "1%",
+	"sum_one": "hasta 20 000",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 190 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  },
+	{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
+      "name": "Finmercado MX CPL",
+     "rating": 5,
+     "age": "22-55",
+    "percent": "1%",
+	"sum_one": "hasta 20 000",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 190 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Funciona las 24 horas del día",
@@ -90,3 +287,4 @@
   }
       
 ]
+
