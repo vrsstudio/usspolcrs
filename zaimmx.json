@@ -231,18 +231,18 @@
   },
 	{
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
-      "name": "Finmercado MX CPL",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/moneycatmx.png",
+      "name": "Moneycat MX",
      "rating": 5,
-     "age": "22-55",
-    "percent": "1%",
-	"sum_one": "hasta 20 000",
+     "age": "21-60",
+    "percent": "0.8%",
+	"sum_one": "hasta 90 000",
 		"sum_min": "hasta 1 000 руб",
- "days_info": "hasta 190 días",
+ "days_info": "hasta 160 días",
  
 	"term_to": "160",
    
-     "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839",
+     "url": "https://tds.pdl-profit.com/h/1r0l68860a69543d8",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Funciona las 24 horas del día",
@@ -259,18 +259,18 @@
   },
 	{
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
-      "name": "Finmercado MX CPL",
-     "rating": 5,
-     "age": "22-55",
-    "percent": "1%",
-	"sum_one": "hasta 20 000",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/binixmx.png",
+      "name": "Binixo MX",
+     "rating": 4,
+     "age": "18-70",
+    "percent": "0.3%",
+	"sum_one": "hasta 100 000",
 		"sum_min": "hasta 1 000 руб",
  "days_info": "hasta 190 días",
  
 	"term_to": "160",
    
-     "url": "https://tds.pdl-profit.com/h/1rc1688609e1d6839",
+     "url": "https://tds.pdl-profit.com/h/1qd668860ad3170b1",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Funciona las 24 horas del día",
@@ -287,6 +287,7 @@
   }
       
 ]
+
 
 
 
