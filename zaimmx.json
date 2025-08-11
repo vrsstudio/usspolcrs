@@ -1,35 +1,5 @@
 [
 
-  {
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/coppelmx.png",
-      "name": "Coppel MX",
-     "rating": 5,
-     "age": "18-65",
-    "percent": "0.8%",
-	"sum_one": "hasta 35 000",
-		"sum_min": "hasta 1 000 руб",
- "days_info": "hasta 160 días",
- 
-	"term_to": "160",
-   
-     "url": "https://tds.pdl-profit.com/h/1rbi688609ef3a2be",
-       "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Funciona las 24 horas del día",
-        "license": "Certificado Nº 2/11/08/27/000326",
-   "scorost": "несколько минут",
-   "dokuments": "Pasaporte",
-   "sposob": "онлайн",
-    "nalichnie": true,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-
-
-  }  
-,
-
  {
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/alvos.png",
@@ -44,6 +14,35 @@
 	"term_to": "160",
    
      "url": "https://tds.pdl-profit.com/h/1rco688609a3175c0",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  }  ,
+	
+	{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/coppelmx.png",
+      "name": "Coppel MX",
+     "rating": 5,
+     "age": "18-65",
+    "percent": "0.8%",
+	"sum_one": "hasta 35 000",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 160 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1rbi688609ef3a2be",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Funciona las 24 horas del día",
@@ -342,6 +341,7 @@
   }
       
 ]
+
 
 
 
