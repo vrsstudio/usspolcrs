@@ -84,6 +84,91 @@
 
 
   },
+
+{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/moneymarketmx.png",
+      "name": "Binixo MX",
+     "rating": 4,
+     "age": "18-70",
+    "percent": "0.3%",
+	"sum_one": "hasta 100 000",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 190 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1rab6891ae808c54a",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  },
+	{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditmx.png",
+      "name": "Kimbi MX",
+     "rating": 4,
+     "age": "18-70",
+    "percent": "0.4%",
+	"sum_one": "hasta 100 000",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 190 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1pde6891ae79729ad",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  },{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/holadinero-mx.png",
+      "name": "Abea MX",
+     "rating": 4,
+     "age": "18-70",
+    "percent": "0.4%",
+	"sum_one": "hasta 24 000",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 190 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1qai6891ae7b343eb",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  },
+
 	
 	{
   
@@ -257,92 +342,11 @@
 	"kruglosutochno": true
 
 
-  },
-	{
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/moneymarketmx.png",
-      "name": "Binixo MX",
-     "rating": 4,
-     "age": "18-70",
-    "percent": "0.3%",
-	"sum_one": "hasta 100 000",
-		"sum_min": "hasta 1 000 руб",
- "days_info": "hasta 190 días",
- 
-	"term_to": "160",
-   
-     "url": "https://tds.pdl-profit.com/h/1rab6891ae808c54a",
-       "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Funciona las 24 horas del día",
-        "license": "Certificado Nº 2/11/08/27/000326",
-   "scorost": "несколько минут",
-   "dokuments": "Pasaporte",
-   "sposob": "онлайн",
-    "nalichnie": true,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-
-
-  },
-	{
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditmx.png",
-      "name": "Kimbi MX",
-     "rating": 4,
-     "age": "18-70",
-    "percent": "0.4%",
-	"sum_one": "hasta 100 000",
-		"sum_min": "hasta 1 000 руб",
- "days_info": "hasta 190 días",
- 
-	"term_to": "160",
-   
-     "url": "https://tds.pdl-profit.com/h/1pde6891ae79729ad",
-       "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Funciona las 24 horas del día",
-        "license": "Certificado Nº 2/11/08/27/000326",
-   "scorost": "несколько минут",
-   "dokuments": "Pasaporte",
-   "sposob": "онлайн",
-    "nalichnie": true,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-
-
-  },{
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/holadinero-mx.png",
-      "name": "Abea MX",
-     "rating": 4,
-     "age": "18-70",
-    "percent": "0.4%",
-	"sum_one": "hasta 24 000",
-		"sum_min": "hasta 1 000 руб",
- "days_info": "hasta 190 días",
- 
-	"term_to": "160",
-   
-     "url": "https://tds.pdl-profit.com/h/1qai6891ae7b343eb",
-       "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Funciona las 24 horas del día",
-        "license": "Certificado Nº 2/11/08/27/000326",
-   "scorost": "несколько минут",
-   "dokuments": "Pasaporte",
-   "sposob": "онлайн",
-    "nalichnie": true,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-
-
   }
+	
       
 ]
+
 
 
 
