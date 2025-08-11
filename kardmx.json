@@ -1,33 +1,34 @@
 [
   {
-	"name": "Tarjeta de Débito Platinum",
+	"name": "Vexi Clasica & Vexi Basica",
 	"price_info": "От 3% До 500 000 руб",
     "image_url": "http://zaem-online.kz/img/alfa.png",
     "sum": "400 - 500 000",
 	"term": "5 - 100",
 	"percent": "1,03% - 1,85%",
-    "url": "https://www.mastercard.com/us/en/personal/find-a-card/credit-card/standard-mastercard.html",
+    "url": "https://tds.pdl-profit.com/h/1req6899937642699",
     "text": "<p>100 дней без % по кредиту на покупки и снятие наличных.</p><p>Кредитный лимит до 500 000 руб.</p>"
   },
   
   {
-	"name": "World Mastercard",
+	"name": "Vexi Beginnings Light",
 	"price_info": "От 5% До 300 000 руб",
     "image_url": "http://zaem-online.kz/img/smart_card_mc_normal.png",
     "sum": "400 - 300 000",
 	"term": "5 - 100",
 	"percent": "1,10% - 1,75%",
-    "url": "https://www.mastercard.com/us/en/personal/find-a-card/credit-card/world-mastercard.html",
+    "url": "https://tds.pdl-profit.com/h/1req6899937642699",
     "text": "<p>Новый повышенный кэшбэк 5% на бытовую технику, электронику, одежду и обувь</p><p>Кредитный лимит до 300 000 руб.</p>"
   },
 	{
-	"name": "World Elite Mastercard",
+	"name": "Vexi American Express",
 	"price_info": "От 5% До 300 000 руб",
     "image_url": "http://zaem-online.kz/img/smart_card_mc_normal.png",
     "sum": "400 - 250 000",
 	"term": "5 - 100",
 	"percent": "1,01% - 1,43%",
-    "url": "https://www.mastercard.com/us/en/personal/find-a-card/credit-card/world-elite-mastercard.html",
+    "url": "https://tds.pdl-profit.com/h/1req6899937642699",
     "text": "<p>Новый повышенный кэшбэк 5% на бытовую технику, электронику, одежду и обувь</p><p>Кредитный лимит до 300 000 руб.</p>"
   }
 ]
+
