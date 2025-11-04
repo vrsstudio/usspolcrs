@@ -141,66 +141,6 @@
 
 
   },
-
-	
-	{
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditosinmemx.png",
-      "name": "Creditos Inmediatos",
-     "rating": 5,
-     "age": "18-65",
-    "percent": "0.02%",
-	"sum_one": "hasta 120 000",
-		"sum_min": "hasta 1 000 руб",
- "days_info": "hasta 165 días",
- 
-	"term_to": "160",
-   
-     "url": "https://tds.pdl-profit.com/h/1q116891ae7a90ca0",
-       "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Funciona las 24 horas del día",
-        "license": "Certificado Nº 2/11/08/27/000326",
-   "scorost": "несколько минут",
-   "dokuments": "Pasaporte",
-   "sposob": "онлайн",
-    "nalichnie": true,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-
-
-  },
-	
-	{
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/cashrushmx.png",
-      "name": "Cashrush MX",
-     "rating": 5,
-     "age": "18-65",
-    "percent": "0.5%",
-	"sum_one": "hasta 94 307",
-		"sum_min": "hasta 1 000 руб",
- "days_info": "hasta 190 días",
- 
-	"term_to": "160",
-   
-     "url": "https://tds.pdl-profit.com/h/1puv6891ae79b3585",
-       "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Funciona las 24 horas del día",
-        "license": "Certificado Nº 2/11/08/27/000326",
-   "scorost": "несколько минут",
-   "dokuments": "Pasaporte",
-   "sposob": "онлайн",
-    "nalichnie": true,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-
-
-  },
-
 {
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/moneymarketmx.png",
@@ -352,6 +292,7 @@
 	
       
 ]
+
 
 
 
