@@ -1,36 +1,37 @@
 [
   {
-	"name": "Vivus",
+	"name": "Alvos",
 	"price_info": "От 3% До 500 000 руб",
     "image_url": "http://zaem-online.kz/img/alfa.png",
-    "sum": "400 - 12 000",
+    "sum": "200 - 8 000",
 	"term": "5 - 100",
 	"percent": "0,03% - 1,02%",
-    "url": "https://tds.pdl-profit.com/h/1ran68860a2251def",
+    "url": "https://tds.pdl-profit.com/h/1rco688609a3175c0",
     "text": "<p>100 дней без % по кредиту на покупки и снятие наличных.</p><p>Кредитный лимит до 500 000 руб.</p>"
   },
   
   {
-	"name": "Dineromon",
+	"name": "BBVA TDC",
 	"price_info": "От 5% До 300 000 руб",
     "image_url": "http://zaem-online.kz/img/smart_card_mc_normal.png",
     "sum": "1000 - 12 000",
 	"term": "5 - 100",
 	"percent": "0,02% - 1,5%",
-    "url": "https://tds.pdl-profit.com/h/1qhv6891ae7c1ba4c",
+    "url": "https://tds.pdl-profit.com/h/1rig6909cc6956b98",
     "text": "<p>Новый повышенный кэшбэк 5% на бытовую технику, электронику, одежду и обувь</p><p>Кредитный лимит до 300 000 руб.</p>"
   },
 	{
-	"name": "Creditnice",
+	"name": "Prestomin",
 	"price_info": "От 5% До 300 000 руб",
     "image_url": "http://zaem-online.kz/img/smart_card_mc_normal.png",
     "sum": "1000 - 300 000",
 	"term": "5 - 100",
 	"percent": "0,01% - 1,43%",
-    "url": "https://tds.pdl-profit.com/h/1qpt68860acb2cf74",
+    "url": "https://tds.pdl-profit.com/h/1rhu6909cc5288ad6",
     "text": "<p>Новый повышенный кэшбэк 5% на бытовую технику, электронику, одежду и обувь</p><p>Кредитный лимит до 300 000 руб.</p>"
   }
 ]
+
 
 
 
