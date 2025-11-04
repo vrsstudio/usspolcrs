@@ -27,7 +27,8 @@
 	"kruglosutochno": true
 
 
-  }, {
+  }, 
+	{
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
       "name": "Abea MX",
@@ -54,10 +55,36 @@
 	"kruglosutochno": true
 
 
-  }
-	,
-
+  },
 	{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lendinomx.png",
+      "name": "Lendio MX",
+     "rating": 5,
+     "age": "21-60",
+    "percent": "0.2%",
+	"sum_one": "hasta 90 000",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 160 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1rae6909ca7843b61",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+
+
+  },
+{
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finzmomx.png",
       "name": "Finzmo MX",
@@ -84,7 +111,7 @@
 	"kruglosutochno": true
 
 
-  }  ,
+  },
 	{
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
@@ -197,7 +224,6 @@
 
 
   },
-
  {
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
@@ -225,38 +251,8 @@
 	"kruglosutochno": true
 
 
-  }
-	,
-		{
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/moneycatmx.png",
-      "name": "Moneycat MX",
-     "rating": 5,
-     "age": "21-60",
-    "percent": "0.8%",
-	"sum_one": "hasta 90 000",
-		"sum_min": "hasta 1 000 руб",
- "days_info": "hasta 160 días",
- 
-	"term_to": "160",
-   
-     "url": "https://tds.pdl-profit.com/h/1r0l68860a69543d8",
-       "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Funciona las 24 horas del día",
-        "license": "Certificado Nº 2/11/08/27/000326",
-   "scorost": "несколько минут",
-   "dokuments": "Pasaporte",
-   "sposob": "онлайн",
-    "nalichnie": true,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-
-
   },
-
-	{
+{
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/turbopesso.png",
       "name": "TurboPeso MX",
@@ -283,15 +279,9 @@
 	"kruglosutochno": true
 
 
-  }
-
-	
-	
-	
-	
-	
-      
+  }      
 ]
+
 
 
 
