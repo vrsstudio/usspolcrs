@@ -23,7 +23,7 @@
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
-    "sum_one": "de 2 000 a 100 000 mxn",
+    "sum_one": "de 2 000 a 100 000 $",
     "url": "https://www.bbva.com.co/personas/productos/prestamos/online.html"
   },
   {
@@ -32,7 +32,7 @@
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
-    "sum_one": "de 1 000 a 12 000 $",
+    "sum_one": "de 1 000 a 120 000 $",
     "url": "https://www.bancopopular.com.co/wps/portal/bancopopular/inicio/para-ti/prestamo-personal-libre-destino"
   } 
 ]
