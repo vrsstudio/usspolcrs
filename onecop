@@ -9,30 +9,30 @@
     "url": "https://www.bancodebogota.com/personas/tarjetas-de-credito/on#fragment-810-xvts"
   },
   {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/daviviendacol.png",
     "name": "Sin revisión en buró de crédito",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
-    "sum_one": "de 1 000 a 150 000 mxn",
-    "url": "https://tds.pdl-profit.com/h/1rim690bd23d7d845"
+    "sum_one": "de 1 000 a 1 000 000 cop",
+    "url": "https://www.davivienda.com/personas/credito-de-consumo/credito-de-libranza"
   },
   {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finolomx.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/bbvacols.png",
     "name": "Aprobación inmediata en minutos",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
     "sum_one": "de 2 000 a 100 000 mxn",
-    "url": "https://tds.pdl-profit.com/h/1rc4688609d1b24ff"
+    "url": "https://www.bbva.com.co/personas/productos/prestamos/online.html"
   },
   {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finzmomx.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/Banco_Popular_.png",
     "name": "Crédito rápido sin papeleo",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
     "sum_one": "de 1 000 a 12 000 $",
-    "url": "https://tds.pdl-profit.com/h/1qoj6891ae7cf0f71"
+    "url": "https://www.bancopopular.com.co/wps/portal/bancopopular/inicio/para-ti/prestamo-personal-libre-destino"
   } 
 ]
