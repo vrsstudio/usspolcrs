@@ -20,7 +20,7 @@
   {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/zaimoomx.png",
     "name": "Aprobación inmediata en minutos",
-    "rating": 5,
+    "rating": 4,
     "age": "desde 18 años",
     "odobrenie": "Baja",
     "sum_one": "de 100 000 a 10 000 000 $",
@@ -47,7 +47,7 @@
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditoco.png",
     "name": "Solicita tu préstamo en minutos",
-    "rating": 5,
+    "rating": 4,
     "age": "desde 18 años",
     "odobrenie": "Baja",
     "sum_one": "de 100 000 a 1 200 000 $",
@@ -65,7 +65,7 @@
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/yadineroco.png",
     "name": "Calcula y solicita tu préstamo",
-    "rating": 5,
+    "rating": 4,
     "age": "desde 18 años",
     "odobrenie": "Baja",
     "sum_one": "de 120 000 a 2 000 000 $",
