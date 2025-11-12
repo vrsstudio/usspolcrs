@@ -28,7 +28,7 @@
   },
   {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/odiruco.png",
-    "name": "Crédito rápido sin papeleo",
+    "name": "Solicitud fácil y rápida",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
@@ -37,7 +37,7 @@
   },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/wasticreditco.png",
-    "name": "Crédito rápido sin papeleo",
+    "name": "Préstamos disponibles las 24 horas",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
@@ -46,7 +46,7 @@
   },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditoco.png",
-    "name": "Crédito rápido sin papeleo",
+    "name": "Solicita tu préstamo en minutos",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
@@ -55,7 +55,7 @@
   },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lineruco.png",
-    "name": "Crédito rápido sin papeleo",
+    "name": "Transferencia directa a tu tarjeta",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
@@ -64,7 +64,7 @@
   },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/yadineroco.png",
-    "name": "Crédito rápido sin papeleo",
+    "name": "Calcula y solicita tu préstamo",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
