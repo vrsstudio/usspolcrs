@@ -18,21 +18,48 @@
     "url": "https://tds.pdl-profit.com/h/1qnm690f4c72e54da"
   },
   {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/bbvacols.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/zaimoomx.png",
     "name": "Aprobación inmediata en minutos",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
-    "sum_one": "de 2 000 a 100 000 $",
-    "url": "https://www.bbva.com.co/personas/productos/prestamos/online.html"
+    "sum_one": "de 100 000 a 10 000 000 $",
+    "url": "https://tds.pdl-profit.com/h/1qkt690f4c85f2442"
   },
   {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/Banco_Popular_.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/odiruco.png",
     "name": "Crédito rápido sin papeleo",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
-    "sum_one": "de 1 000 a 120 000 $",
+    "sum_one": "de 110 000 a 500 000 $",
     "url": "https://www.bancopopular.com.co/wps/portal/bancopopular/inicio/para-ti/prestamo-personal-libre-destino"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/wasticreditco.png",
+    "name": "Crédito rápido sin papeleo",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 300 000 a 1 000 000 $",
+    "url": "https://tds.pdl-profit.com/h/1rgm690f4c4a7d927"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditoco.png",
+    "name": "Crédito rápido sin papeleo",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 100 000 a 1 200 000 $",
+    "url": "https://tds.pdl-profit.com/h/1r48690f4c5aa4167"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lineruco.png",
+    "name": "Crédito rápido sin papeleo",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 150 000 a 1 200 000 $",
+    "url": "https://tds.pdl-profit.com/h/1rgo690f4c42c4910"
   } 
 ]
