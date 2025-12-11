@@ -1,10 +1,8 @@
 [
     
-    
- 
  {
   
-     "image_url": "https://zaimua.com.ua/img/egrlogo.png",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbbank.png",
       "name": "Evros",
      "rating": 5,
      "age": "18-65",
@@ -15,7 +13,7 @@
  
 	"term_to": "365",
    
-     "url": "https://google.com",
+     "url": "https://www.vtb.ru/personal/kredit/nalichnymi/",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Работает круглосуточно",
@@ -29,19 +27,10 @@
 	"kruglosutochno": true
 
 
-  }
-    
-    
-,
-
-
-
-
-
-
+  } ,
  {
   
-     "image_url": "https://zaimua.com.ua/img/miloan_logo.png",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/sovkobank.png",
       "name": "Milian",
      "rating": 5,
      "age": "18-65",
@@ -52,7 +41,7 @@
  
 	"term_to": "365",
    
-     "url": "https://google.com",
+     "url": "https://sovcombank.ru/credits/cash",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Работает круглосуточно",
@@ -66,17 +55,11 @@
 	"kruglosutochno": true
 
 
-  }
-    
-    
+  }    
 ,
-
-
-
-
  {
   
-     "image_url": "https://zaimua.com.ua/img/soscredit1.jpg",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/tbank.png",
       "name": "Soscredit",
      "rating": 5,
      "age": "18-65",
@@ -87,7 +70,7 @@
  
 	"term_to": "365",
    
-     "url": "https://google.com",
+     "url": "https://www.tbank.ru/loans/cash-loan/",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Работает круглосуточно",
