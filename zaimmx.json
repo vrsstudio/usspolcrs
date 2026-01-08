@@ -55,6 +55,32 @@
 
 
   },
+	{
+  
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/loaneymx.png",
+      "name": "Solinia MX",
+     "rating": 5,
+     "age": "18-70",
+    "percent": "0.01%",
+	"sum_one": "hasta 30 000",
+		"sum_min": "hasta 1 000 руб",
+ "days_info": "hasta 190 días",
+ 
+	"term_to": "160",
+   
+     "url": "https://tds.pdl-profit.com/h/1rek68860968c840c",
+       "email": "info@web-zaim.ru",
+        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
+        "work_time": "Funciona las 24 horas del día",
+        "license": "Certificado Nº 2/11/08/27/000326",
+   "scorost": "несколько минут",
+   "dokuments": "Pasaporte",
+   "sposob": "онлайн",
+    "nalichnie": true,
+	"nakartu": true,
+	"zafiveminut": true,
+	"kruglosutochno": true
+  },
 {
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lemonzamx.png",
@@ -112,32 +138,7 @@
 
 
   },
-	{
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/kueskimx.png",
-      "name": "Kueski MX",
-     "rating": 5,
-     "age": "18-65",
-    "percent": "0.01%",
-	"sum_one": "hasta 12 000",
-		"sum_min": "hasta 1 000 руб",
- "days_info": "hasta 160 días",
- 
-	"term_to": "160",
-   
-     "url": "https://tds.pdl-profit.com/h/1rd66958e4576fd9c",
-       "email": "info@web-zaim.ru",
-        "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
-        "work_time": "Funciona las 24 horas del día",
-        "license": "Certificado Nº 2/11/08/27/000326",
-   "scorost": "несколько минут",
-   "dokuments": "Pasaporte",
-   "sposob": "онлайн",
-    "nalichnie": true,
-	"nakartu": true,
-	"zafiveminut": true,
-	"kruglosutochno": true
-  },
+	
 	{
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finolomx.png",
@@ -164,20 +165,20 @@
 	"zafiveminut": true,
 	"kruglosutochno": true
   },
-{
+	{
   
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/soliniamx.png",
-      "name": "Solinia MX",
+     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/kueskimx.png",
+      "name": "Kueski MX",
      "rating": 5,
-     "age": "18-70",
+     "age": "18-65",
     "percent": "0.01%",
-	"sum_one": "hasta 30 000",
+	"sum_one": "hasta 12 000",
 		"sum_min": "hasta 1 000 руб",
- "days_info": "hasta 190 días",
+ "days_info": "hasta 160 días",
  
 	"term_to": "160",
    
-     "url": "https://tds.pdl-profit.com/h/1ri8692aba3814064",
+     "url": "https://tds.pdl-profit.com/h/1rd66958e4576fd9c",
        "email": "info@web-zaim.ru",
         "address": "630091, г.Новосибирск, ул. Державина, 28, офис 302",
         "work_time": "Funciona las 24 horas del día",
@@ -190,6 +191,7 @@
 	"zafiveminut": true,
 	"kruglosutochno": true
   },
+
 	{
   
      "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditiliamx.png",
@@ -274,3 +276,4 @@
   } 
      
 ]
+
