@@ -1,36 +1,33 @@
 [
-{
- "age": "18-65",
-"image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/tbank.png",
-      "name": "tbank",
-     "rating": 5,
-     "percent": "0%",
-	"sum_one": "до 5 000 000 руб",
- "days_info": "до 250 дней",
- "url": "https://www.tbank.ru/loans/cash-loan/",
- },
-{
- "age": "20-65",
-"image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/genbankruu.png",
-      "name": "Ренессанс",
-     "rating": 5,
-     "percent": "0%",
-	"sum_one": "до 4 000 000 руб",
- "days_info": "до 205 дней",
- "url": "https://www.genbank.ru/chastnym-litsam/credit_for_clients/kredity-dlya-chastnykh-lits-/dostupnyy/#product-opening",
- },
-{
- "age": "18-65",
-"image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/sovkobank.png",
-      "name": "Совком Банк",
-     "rating": 5,
-     "percent": "0%",
-	"sum_one": "до 3 000 000 руб",
- "days_info": "до 250 дней",
- "url": "https://sovcombank.ru/credits/cash",
- }
 
+ {
+         "text": "Прозрачные условия",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbbank.png",
+        "rating": 5,
+        "sum_one": "до 2 000 000 руб.",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://www.vtb.ru/personal/kredit/nalichnymi/"
+    } ,
+{
+      
+    "text": "Быстрое оформление",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/sovkobank.png",
+        "rating": 5,
+        "sum_one": "до 700 000 руб.",
+        "days_info": "Авторешение",
+        "percent": "0%",
+        "url": "https://sovcombank.ru/credits/cash"
+    },
+     {
+       
+    "text": "Быстрейший займ",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/renessans.png",
+        "rating": 5,
+        "sum_one": "до 700 000 руб.",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://anketa.rencredit.ru/app/credit/site/?utm_referrer=https%3a%2f%2frencredit.ru%2f#anketa"
+    }   
     
-    
-
 ]
