@@ -4,26 +4,26 @@
     "name": "Dinero al instante en tu tarjeta",
     "rating": 5,
     "age": "desde 18 años",
-    "sum_one": "de 200 000 a 3 000 000 cop",
+    "sum_one": "de 200 000 Hasta $10.000.000 COP",
     "odobrenie": "Alta",
     "url": "https://tds.pdl-profit.com/h/1rh4690f4c252b725"
   },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/yadineroco.png",
     "name": "Calcula y solicita tu préstamo",
-    "rating": 4,
+    "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
-    "sum_one": "de 120 000 a 2 000 000 $",
+    "sum_one": "de 120 000 Hasta $8.000.000 COP",
     "url": "https://tds.pdl-profit.com/h/1ric690f4c165e605"
   },
     {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditnacecol.jpg",
-    "name": "Solicitud fácil y rápida",
+    "name": "Disponible 24/7 para ti",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
-    "sum_one": "de 110 000 a 500 000 $",
+    "sum_one": "de 110 000 Hasta $20.000.000 COP",
     "url": "https://tds.pdl-profit.com/h/1qs0690f4c64708e4"
   },
 {
@@ -32,27 +32,27 @@
     "rating": 4,
     "age": "desde 18 años",
     "odobrenie": "Baja",
-    "sum_one": "de 500 000 a 2 000 000 $",
+    "sum_one": "de 500 000 Hasta $8.000.000 COP",
     "url": "https://tds.pdl-profit.com/h/1rr969cc2d4731133"
   },
 
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
-    "name": "Solicita tu préstamo en minutos",
+    "name": "Dinero en pocos pasos",
     "rating": 4,
     "age": "desde 18 años",
     "odobrenie": "Baja",
-    "sum_one": "de 100 000 a 1 200 000 $",
+    "sum_one": "de 100 000 Hasta $12.000.000 COP",
     "url": "https://tds.pdl-profit.com/h/1ron69cd62dc88863"
   },
 
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finteresco.png",
-    "name": "Transferencia directa a tu tarjeta",
+    "name": "Obtén el monto que buscas",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
-    "sum_one": "de 150 000 a 1 200 000 $",
+    "sum_one": "de 150 000 Hasta $10.000.000 COP",
     "url": "https://tds.pdl-profit.com/h/1qn7690f4c79d303f"
   },
 {
@@ -61,7 +61,7 @@
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
-    "sum_one": "de 300 000 a 1 000 000 $",
+    "sum_one": "de 300 000 Hasta $18.000.000 COP",
     "url": "https://tds.pdl-profit.com/h/1rrh69cc2d75bb61e"
   },
 {
@@ -70,16 +70,16 @@
     "rating": 4,
     "age": "desde 18 años",
     "odobrenie": "Baja",
-    "sum_one": "de 100 000 a 10 000 000 $",
+    "sum_one": "de 100 000 Hasta $20.000.000 COP",
     "url": "https://tds.pdl-profit.com/h/1qkt690f4c85f2442"
   },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditco.png",
     "name": "Sin revisión en buró de crédito",
-    "rating": 5,
+    "rating": 4,
     "age": "desde 18 años",
     "odobrenie": "Baja",
-    "sum_one": "de 100 000 a 1 500 000 cop",
+    "sum_one": "de 100 000 Hasta $8.000.000 COP",
     "url": "https://tds.pdl-profit.com/h/1qnm690f4c72e54da"
   }
 
