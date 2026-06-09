@@ -8,60 +8,6 @@
     "odobrenie": "Alta",
     "url": "https://tds.pdl-profit.com/h/1rh4690f4c252b725"
   },
-  {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditco.png",
-    "name": "Sin revisión en buró de crédito",
-    "rating": 5,
-    "age": "desde 18 años",
-    "odobrenie": "Baja",
-    "sum_one": "de 100 000 a 1 500 000 cop",
-    "url": "https://tds.pdl-profit.com/h/1qnm690f4c72e54da"
-  },
-  {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/zaimoomx.png",
-    "name": "Aprobación inmediata en minutos",
-    "rating": 4,
-    "age": "desde 18 años",
-    "odobrenie": "Baja",
-    "sum_one": "de 100 000 a 10 000 000 $",
-    "url": "https://tds.pdl-profit.com/h/1qkt690f4c85f2442"
-  },
-  {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/odiruco.png",
-    "name": "Solicitud fácil y rápida",
-    "rating": 5,
-    "age": "desde 18 años",
-    "odobrenie": "Baja",
-    "sum_one": "de 110 000 a 500 000 $",
-    "url": "https://www.bancopopular.com.co/wps/portal/bancopopular/inicio/para-ti/prestamo-personal-libre-destino"
-  },
-{
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/wasticreditco.png",
-    "name": "Préstamos disponibles las 24 horas",
-    "rating": 5,
-    "age": "desde 18 años",
-    "odobrenie": "Baja",
-    "sum_one": "de 300 000 a 1 000 000 $",
-    "url": "https://tds.pdl-profit.com/h/1rgm690f4c4a7d927"
-  },
-{
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditoco.png",
-    "name": "Solicita tu préstamo en minutos",
-    "rating": 4,
-    "age": "desde 18 años",
-    "odobrenie": "Baja",
-    "sum_one": "de 100 000 a 1 200 000 $",
-    "url": "https://tds.pdl-profit.com/h/1r48690f4c5aa4167"
-  },
-{
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/lineruco.png",
-    "name": "Transferencia directa a tu tarjeta",
-    "rating": 5,
-    "age": "desde 18 años",
-    "odobrenie": "Baja",
-    "sum_one": "de 150 000 a 1 200 000 $",
-    "url": "https://tds.pdl-profit.com/h/1rgo690f4c42c4910"
-  },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/yadineroco.png",
     "name": "Calcula y solicita tu préstamo",
@@ -70,5 +16,71 @@
     "odobrenie": "Baja",
     "sum_one": "de 120 000 a 2 000 000 $",
     "url": "https://tds.pdl-profit.com/h/1ric690f4c165e605"
-  } 
+  },
+    {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditnacecol.jpg",
+    "name": "Solicitud fácil y rápida",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 110 000 a 500 000 $",
+    "url": "https://tds.pdl-profit.com/h/1qs0690f4c64708e4"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/prestamorapido.png",
+    "name": "Solicita tu préstamo en minutos",
+    "rating": 4,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 500 000 a 2 000 000 $",
+    "url": "https://tds.pdl-profit.com/h/1rr969cc2d4731133"
+  },
+
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
+    "name": "Solicita tu préstamo en minutos",
+    "rating": 4,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 100 000 a 1 200 000 $",
+    "url": "https://tds.pdl-profit.com/h/1ron69cd62dc88863"
+  },
+
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finteresco.png",
+    "name": "Transferencia directa a tu tarjeta",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 150 000 a 1 200 000 $",
+    "url": "https://tds.pdl-profit.com/h/1qn7690f4c79d303f"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditopro.png",
+    "name": "Préstamos disponibles las 24 horas",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 300 000 a 1 000 000 $",
+    "url": "https://tds.pdl-profit.com/h/1rrh69cc2d75bb61e"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/zaimoomx.png",
+    "name": "Aprobación inmediata en minutos",
+    "rating": 4,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 100 000 a 10 000 000 $",
+    "url": "https://tds.pdl-profit.com/h/1qkt690f4c85f2442"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditco.png",
+    "name": "Sin revisión en buró de crédito",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 100 000 a 1 500 000 cop",
+    "url": "https://tds.pdl-profit.com/h/1qnm690f4c72e54da"
+  }
+
 ]
