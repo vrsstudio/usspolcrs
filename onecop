@@ -1,12 +1,21 @@
 [
   {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpugmx.png",
-    "name": "Dinero al instante en tu tarjeta",
+    "name": "Dinero para cualquier propósito",
     "rating": 5,
     "age": "desde 18 años",
     "sum_one": "de 200 000 hasta $10.000.000 COP",
     "odobrenie": "Alta",
     "url": "https://tds.pdl-profit.com/h/1rh4690f4c252b725"
+  },
+ {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditnacecol.jpg",
+    "name": "Disponible 24/7 para ti",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 110 000 hasta $20.000.000 COP",
+    "url": "https://tds.pdl-profit.com/h/1qs0690f4c64708e4"
   },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/yadineroco.png",
@@ -17,14 +26,24 @@
     "sum_one": "de 120 000 hasta $8.000.000 COP",
     "url": "https://tds.pdl-profit.com/h/1ric690f4c165e605"
   },
-    {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditnacecol.jpg",
-    "name": "Disponible 24/7 para ti",
+  
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditospanda.png",
+    "name": "Tu préstamo aprobado en minutos",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
-    "sum_one": "de 110 000 hasta $20.000.000 COP",
-    "url": "https://tds.pdl-profit.com/h/1qs0690f4c64708e4"
+    "sum_one": "de 150 000 hasta $10.000.000 COP",
+    "url": "https://track-pdlp.com/h/1rgs690f4c3af3769"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/doprestamoes.png",
+    "name": "Aprobación inmediata en minutos",
+    "rating": 4,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 100 000 hasta $20.000.000 COP",
+    "url": "https://track-pdlp.com/h/1qlr690f4c7f92dce"
   },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/prestamorapido.png",
@@ -45,16 +64,6 @@
     "sum_one": "de 100 000 hasta $12.000.000 COP",
     "url": "https://tds.pdl-profit.com/h/1ron69cd62dc88863"
   },
-
-{
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finteresco.png",
-    "name": "Obtén el monto que buscas",
-    "rating": 5,
-    "age": "desde 18 años",
-    "odobrenie": "Baja",
-    "sum_one": "de 150 000 hasta $10.000.000 COP",
-    "url": "https://tds.pdl-profit.com/h/1qn7690f4c79d303f"
-  },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditopro.png",
     "name": "Préstamos disponibles las 24 horas",
@@ -64,15 +73,7 @@
     "sum_one": "de 300 000 hasta $18.000.000 COP",
     "url": "https://tds.pdl-profit.com/h/1rrh69cc2d75bb61e"
   },
-{
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/zaimoomx.png",
-    "name": "Aprobación inmediata en minutos",
-    "rating": 4,
-    "age": "desde 18 años",
-    "odobrenie": "Baja",
-    "sum_one": "de 100 000 hasta $20.000.000 COP",
-    "url": "https://tds.pdl-profit.com/h/1qkt690f4c85f2442"
-  },
+
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditco.png",
     "name": "Sin revisión en buró de crédito",
