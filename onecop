@@ -72,13 +72,22 @@
     "url": "https://tds.pdl-profit.com/h/1rrh69cc2d75bb61e"
   },
 {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finteresco.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditcool.png",
     "name": "Sin revisión en buró de crédito",
     "rating": 4,
     "age": "desde 18 años",
     "odobrenie": "Baja",
     "sum_one": "de 100 000 hasta $8.000.000 COP",
-    "url": "https://track-pdlp.com/h/1qn7690f4c79d303f"
+    "url": "https://track-pdlp.com/h/1rrr69cc2e9386eec"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/facilprestamo.png",
+    "name": "Disponible 24/7 para ti",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 110 000 hasta $20.000.000 COP",
+    "url": "https://track-pdlp.com/h/1rrt69cc2e088b95d"
   }
 
 ]
