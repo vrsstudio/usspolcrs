@@ -45,13 +45,13 @@
     "url": "https://track-pdlp.com/h/1s5l6acf72fe064f1"
   },
 {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/crezu.png",
-    "name": "Sin revisión en buró de crédito",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/credy.lp.png",
+    "name": "Préstamos disponibles las 24 horas",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
-    "sum_one": "de 100 000 hasta $8.000.000 COP",
-    "url": "https://track-pdlp.com/h/1pu36acf73000b63e"
+    "sum_one": "de 300 000 hasta $18.000.000 COP",
+    "url": "https://track-pdlp.com/h/1qar6acf73003aff5"
   },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/facilprestamo.png",
@@ -81,15 +81,13 @@
     "url": "https://tds.pdl-profit.com/h/1ric690f4c165e605"
   },
 {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/credy.lp.png",
-    "name": "Préstamos disponibles las 24 horas",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/crezu.png",
+    "name": "Sin revisión en buró de crédito",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
-    "sum_one": "de 300 000 hasta $18.000.000 COP",
-    "url": "https://track-pdlp.com/h/1qar6acf73003aff5"
+    "sum_one": "de 100 000 hasta $8.000.000 COP",
+    "url": "https://track-pdlp.com/h/1pu36acf73000b63e"
   }
-
-
 
 ]
