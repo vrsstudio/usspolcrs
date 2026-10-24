@@ -36,24 +36,6 @@
     "url": "https://tds.pdl-profit.com/h/1rr969cc2d4731133"
   },
 {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/bancoaviasco.png",
-    "name": "Dinero en pocos pasos",
-    "rating": 5,
-    "age": "desde 18 años",
-    "odobrenie": "Baja",
-    "sum_one": "de 100 000 hasta $12.000.000 COP",
-    "url": "https://track-pdlp.com/h/1s5l6acf72fe064f1"
-  },
-{
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/credy.lp.png",
-    "name": "Préstamos disponibles las 24 horas",
-    "rating": 5,
-    "age": "desde 18 años",
-    "odobrenie": "Baja",
-    "sum_one": "de 300 000 hasta $18.000.000 COP",
-    "url": "https://track-pdlp.com/h/1qar6acf73003aff5"
-  },
-{
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/facilprestamo.png",
     "name": "Disponible 24/7 para ti",
     "rating": 5,
@@ -72,22 +54,22 @@
     "url": "https://tds.pdl-profit.com/h/1rh4690f4c252b725"
   },
 {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/yadineroco.png",
-    "name": "Calcula y solicita tu préstamo",
-    "rating": 5,
-    "age": "desde 18 años",
-    "odobrenie": "Baja",
-    "sum_one": "de 120 000 hasta $8.000.000 COP",
-    "url": "https://tds.pdl-profit.com/h/1ric690f4c165e605"
-  },
-{
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/crezu.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finmercadomx.png",
     "name": "Sin revisión en buró de crédito",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Baja",
     "sum_one": "de 100 000 hasta $8.000.000 COP",
-    "url": "https://track-pdlp.com/h/1pu36acf73000b63e"
+    "url": "https://track-pdlp.com/h/1ron69cd62dc88863"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/credy.lp.png",
+    "name": "Préstamos disponibles las 24 horas",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Baja",
+    "sum_one": "de 300 000 hasta $18.000.000 COP",
+    "url": "https://track-pdlp.com/h/1qar6acf73003aff5"
   }
 
 ]
